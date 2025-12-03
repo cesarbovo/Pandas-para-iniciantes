@@ -1,0 +1,9 @@
+Produto,Categoria,Preço,Quantidade,Vendedor,Receita
+Notebook,Eletrônico,3500,2,Ana,7000
+Mouse,Periférico,80,10,Carlos,800
+Teclado,Periférico,250,8,Ana,2000
+Monitor,Eletrônico,1200,3,Bruno,3600
+Webcam,Periférico,350,5,Carlos,1750
+Fone,Periférico,150,4,Bruno,600
+Notebook,Eletrônico,3500,1,Ana,3500
+Mouse,Periférico,80,20,Carlos,1600
